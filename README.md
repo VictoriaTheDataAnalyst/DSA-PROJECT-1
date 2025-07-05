@@ -33,11 +33,11 @@ Using Microsoft Excel 2013, the following key business questions were answered w
 
 ## 📁 Files
 
-| File Name                        | Description                            |
-|----------------------------------|----------------------------------------|
-| `Amazon_Dashboard.xlsx`          | Final Excel dashboard file             |
-| `Amazon_Cleaned_Data.xlsx`       | Cleaned data used to build the dashboard |
-| `README.md`                      | Project summary and instructions       |
+| File Name                                | Description                            |
+|------------------------------------------|----------------------------------------|
+| `AMAZON PRODUCT REVIEWS ANALYSIS.xlsx`   | Original Data, Cleaned Data, Pivot     |
+                                           | Table and Dashboard                    |
+| `README.md`                              | Project summary and instructions       |
 
 ## 💡 Insights
 
@@ -48,11 +48,18 @@ Using Microsoft Excel 2013, the following key business questions were answered w
 ## 🚀 Getting Started
 
 1. Clone or download this repository.
-2. Open `Amazon_Dashboard.xlsx` in Excel.
+2. Open `AMAZON PRODUCT REVIEWS ANALYSIS` in Excel.
 3. Use slicers or filters to explore different views.
 
 ---
 
-Feel free to fork this project or adapt the dashboard to your own datasets.
+## 🚀 Author
 
+**Ojo Victoria Olamide**  
+Data Analyst
 
+---
+
+## 🌐 License
+
+This project is for educational and demonstration purposes. Data used is fictional and provided for the DSA Capstone Project.
